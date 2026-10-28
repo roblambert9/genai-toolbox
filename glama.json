@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "genai-toolbox",
+  "description": "Google's GenAI Toolbox MCP server for building AI agents with databases, APIs, and vector search with autonomous x402 pay-per-call rails.",
+  "maintainers": [
+    "roblambert9"
+  ]
+}

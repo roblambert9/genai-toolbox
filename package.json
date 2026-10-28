@@ -1,0 +1,30 @@
+{
+  "name": "@roblambert9/genai-toolbox",
+  "version": "1.0.0",
+  "description": "Google's GenAI Toolbox MCP server for building AI agents with databases, APIs, and vector search with autonomous x402 pay-per-call rails. Wrapped with @monetize x402 rails.",
+  "main": "server.py",
+  "bin": {
+    "genai-toolbox": "server.py"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "@monetize",
+    "x402",
+    "solana",
+    "usdc",
+    "ai-agents",
+    "nanoempire",
+    "google",
+    "genai",
+    "toolbox",
+    "database",
+    "vector"
+  ],
+  "author": "Rob Lambert <roblambert9@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblambert9/genai-toolbox.git"
+  }
+}
